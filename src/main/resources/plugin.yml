@@ -1,0 +1,11 @@
+name: Feudal
+version: '${project.version}'
+main: me.invertmc.feudal.Feudal
+api-version: '1.21'
+commands:
+  feudal:
+    description: Main Command for the Feudal Plugin
+    usage: /<command> <subcommand> [args]
+  f:
+    description: Main Command for the Feudal Plugin
+    usage: /<command> <subcommand> [args]
